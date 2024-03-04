@@ -7,16 +7,15 @@ An IoT workshop using Grafana Cloud and the m5stack Atom S3 microcontroller
 You'll need an M5Stack Atom S3 microcontroller, an M5Stack Env III temp/humi sensor, and a free Grafana cloud account.
 
 # Instructions
-In your Grafana Cloud account navigate down to the Graphite section and click on "Send Metrics".
+In your Grafana Cloud account navigate down to the Graphite section and click on "Send Metrics".  
 ![image](https://github.com/scarolan/grafana-iot-workshop/assets/403332/9e7dbb18-c546-4e72-81af-a425c3f3bae5)
 
-Generate a new API key with default settings:
+Generate a new API key with default settings:  
 ![image](https://github.com/scarolan/grafana-iot-workshop/assets/403332/ee95683c-2c97-44de-bac4-f2fae0d77bd0)
-
-
+  
 ![image](https://github.com/scarolan/grafana-iot-workshop/assets/403332/22389497-0561-43d5-ab5b-acd1f632c941)
 
-Save the API key in a file, you'll need it in a moment. Also make note of your Graphite URL and username:
+Save the API key in a file, you'll need it in a moment. Also make note of your Graphite URL and username:  
 ![image](https://github.com/scarolan/grafana-iot-workshop/assets/403332/3b5cd90f-d542-4210-bfb1-260e153e07fd)
 
 Clone this repo or download the zip file using the 'Code' button.
