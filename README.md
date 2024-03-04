@@ -1,7 +1,7 @@
 # grafana-iot-workshop
 An IoT workshop using Grafana Cloud and the m5stack Atom S3 microcontroller
 
-![iot_dashboard](https://github.com/scarolan/grafana-iot-workshop/assets/403332/bf21567b-4c2a-44c4-bcaf-6e207857ce4a)
+![iot_dashboard](https://github.com/scarolan/grafana-iot-workshop/assets/403332/53ab9ede-87b2-4151-bd61-6d634d7e6bff)
 
 # Prerequisites
 You'll need an M5Stack Atom S3 microcontroller, an M5Stack Env III temp/humi sensor, and a free Grafana cloud account.
